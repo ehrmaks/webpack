@@ -1,1 +1,1 @@
-# webpack parctice2
+# webpack
